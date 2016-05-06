@@ -1,5 +1,5 @@
-
- A curated list of grid(table) libraries and resources that developers may find useful. Focused on JavaScript grid libraries for different uses. Ordered alphabetically by category.
+# awesome-grid
+> A curated list of grid(table) libraries and resources that developers may find useful. Focused on JavaScript grid libraries for different uses. Ordered alphabetically by category.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
