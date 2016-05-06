@@ -8,27 +8,24 @@
 ## Table of Contents
 *  [Commercial Libraries](#commercial-libraries)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
-*  [Free Libraries](#free-libraries)
-*  [Framework-Specific Libraries](#framework-specific-libraries)
 *  [Resources](#resources)
   
 ---
 
 ### Commercial Libraries
+* [DataTables](http://datatables.net/)
+* [DevExpress](http://js.devexpress.com/)
 * [FancyGrid](http://www.fancygrid.com)
+* [HandSontable](http://handsontable.com/)
+* [HandSontable](http://js-grid.com/)
+* [Sencha](http://sencha.com/)
+* [Webix](http://webix.com/)
 
 ---
 
 ### Free and Open Source Libraries
-
----
-
-### Free Libraries
-
----
-
-### Framework-Specific Libraries
-
----
+* [w2ui](http://w2ui.com/)
+* [SlickGrid](https://github.com/mleibman/SlickGrid)
+* [Angular UI Grid](http://ui-grid.info/)
 
 ### Resources
