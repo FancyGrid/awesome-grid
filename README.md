@@ -16,7 +16,7 @@
 * [DevExpress](http://js.devexpress.com/) - from $250, huge framework with variety of Widgets. Has .NET version.
 * [DHTMLX](http://dhtmlx.com/) - from $466, the oldest one project. Has several products and varienty of widgets.
 * [FancyGrid](http://www.fancygrid.com/) - from $89, elegant grid oriented library on JQuery.
-* [JQWidgets](http://www.jqwidgets.com/) - from $199, variety on widgets on JQuery.
+* [JQWidgets](http://www.jqwidgets.com/) - from $199, variety of widgets on JQuery.
 * [HandSontable](http://handsontable.com/) - from $99, excel-like table with Polymer and Angular versions.
 * [KoolGrid](http://www.koolchart.com/products/koolgrid) - from $340.
 * [Sencha](http://sencha.com/) - from $2,475 Huge standalone framework for serious project, used only for CRM/ERP systems because huge default size. It is leader in it's area.
