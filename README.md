@@ -7,10 +7,23 @@
 
 ## Table of Contents
 *  [Commercial Libraries](#commercial-libraries)
-*  Free and Open Source Libraries
-*  Free Libraries
-*  Framework-Specific Libraries
-*  Resources
+*  [Free and Open Source Libraries](#free-and-open-source-libraries)
+*  [Free Libraries](#free-libraries)
+*  [Framework-Specific Libraries](#framework-specific-libraries)
+*  [Resources](#resources)
+  
+---
 
 ### Commercial Libraries
 * [FancyGrid](http://www.fancygrid.com)
+
+---
+### Free and Open Source Libraries
+
+---
+
+### Framework-Specific Libraries
+
+---
+
+### Resources
