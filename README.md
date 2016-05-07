@@ -8,33 +8,42 @@
 ## Table of Contents
 *  [Commercial Libraries](#commercial-libraries)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
+*  [Framework-Specific Libraries](#framework-specific-libraries)
+*  [Infographic Tools](#infographic-tools)
 *  [Resources](#resources)
   
 ---
 
 ### Commercial Libraries
-* [DevExpress](http://js.devexpress.com/) - from $250, huge framework with variety of Widgets. Has .NET version.
-* [DHTMLX](http://dhtmlx.com/) - from $466, the oldest one project. Has several products and varienty of widgets.
-* [FancyGrid](http://www.fancygrid.com/) - from $89, elegant grid oriented library on JQuery.
-* [JQWidgets](http://www.jqwidgets.com/) - from $199, variety of widgets on JQuery.
-* [HandSontable](http://handsontable.com/) - from $99, excel-like table with Polymer and Angular versions.
-* [KoolGrid](http://www.koolchart.com/products/koolgrid) - from $340.
-* [Sencha](http://sencha.com/) - from $2,475 Huge standalone framework for serious project, used only for CRM/ERP systems because huge default size. It is leader in it's area.
-* [SmartClient](http://www.smartclient.com/) - from $745, one of oldest product.
-* [Telerik](http://www.telerik.com/) - from $1,299, variety of widgets.
-* [Webix](http://webix.com/) - from $469, variety of widgets, has .NET version.
+* [DevExpress](http://js.devexpress.com/) - huge framework with variety of widgets. Has .NET version.
+* [DHTMLX](http://dhtmlx.com/) - has several products and varienty of widgets.
+* [FancyGrid](http://www.fancygrid.com/) - elegant grid library on JQuery.
+* [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on JQuery.
+* [HandSontable](http://handsontable.com/) - excel-like table on JQuery, has Polymer and Angular versions.
+* [Sencha](http://sencha.com/) - huge plugin free framework for only CRM/ERP systems since big default size.
+* [SmartClient](http://www.smartclient.com/) - one of oldest one project.
+* [Telerik](http://www.telerik.com/) - variety of widgets.
+* [Webix](http://webix.com/) - variety of widgets, has .NET version.
   
-Note:  
-Most libraries has free version for Non Commercial and Open Source projects.  
-From price is commercial start price.  
-
 ---
 
 ### Free and Open Source Libraries
-* [Angular UI Grid](http://ui-grid.info/)
-* [DataTables](http://datatables.net/) 
-* [JS Grid](http://js-grid.com/) 
-* [SlickGrid](https://github.com/mleibman/SlickGrid)
-* [w2ui](http://w2ui.com/)
+####JQuery
+* [DataTables](http://datatables.net/) - easy to use library.
+* [JS Grid](http://js-grid.com/) - light grid library.
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has 1 000 000 rows support.
+* [w2ui](http://w2ui.com/) - light framework with just 69kb.
+
+#### Angular
+* [Angular UI Grid](http://ui-grid.info/) - easy to use library written with AngularJS.
+
+#### React
+* [Griddle](http://griddlegriddle.github.io/Griddle/) - simple grid library.
+* [React-DataGrid](http://zippyui.com/react-datagrid/) - has basic grid features, looks lite but serious.
+
+---
+
+### Infographic Tools
+* [infogr.am](http://infogr.am) - cloud infographics tool, has light Table widget.
 
 ### Resources
