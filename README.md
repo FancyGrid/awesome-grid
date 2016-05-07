@@ -9,8 +9,7 @@
 *  [Commercial Libraries](#commercial-libraries)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
 *  [Infographic Tools](#infographic-tools)
-*  [Resources](#resources)
-  
+
 ---
 
 ### Commercial Libraries
@@ -20,7 +19,7 @@
 * [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on JQuery.
 * [HandSontable](http://handsontable.com/) - excel-like table on JQuery, has Polymer and Angular versions.
 * [Sencha](http://sencha.com/) - huge plugin free framework for only CRM/ERP systems since big default size.
-* [SmartClient](http://www.smartclient.com/) - one of oldest one project.
+* [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - variety of widgets.
 * [Webix](http://webix.com/) - variety of widgets, has .NET version.
   
@@ -30,7 +29,7 @@
 ####JQuery
 * [DataTables](http://datatables.net/) - easy to use library.
 * [JS Grid](http://js-grid.com/) - light grid library.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has 1 000 000 rows support.
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature( 1 000 000 rows).
 * [w2ui](http://w2ui.com/) - light framework with just 69kb.
 
 #### Angular
@@ -44,5 +43,3 @@
 
 ### Infographic Tools
 * [infogr.am](http://infogr.am) - cloud infographics tool, has light Table widget.
-
-### Resources
