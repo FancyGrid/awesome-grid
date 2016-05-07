@@ -8,7 +8,6 @@
 ## Table of Contents
 *  [Commercial Libraries](#commercial-libraries)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
-*  [Framework-Specific Libraries](#framework-specific-libraries)
 *  [Infographic Tools](#infographic-tools)
 *  [Resources](#resources)
   
