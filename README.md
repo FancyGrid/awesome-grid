@@ -18,7 +18,7 @@
 * [FancyGrid](http://www.fancygrid.com/) - elegant grid library on JQuery.
 * [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on JQuery.
 * [HandSontable](http://handsontable.com/) - excel-like table on JQuery, has Polymer and Angular versions.
-* [Sencha](http://sencha.com/) - huge plugin free framework for only CRM/ERP systems since big default size.
+* [Sencha](http://sencha.com/) - huge plugins free framework for developing standalone CRM/ERP systems since big default size.
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - variety of widgets.
 * [Webix](http://webix.com/) - variety of widgets, has .NET version.
