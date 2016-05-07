@@ -1,0 +1,17 @@
+{
+  "name": "awesome-grid",
+  "version": "1.0.0",
+  "description": "A curated list of grid(table) libraries and resources that developers may find useful",
+  "main": "README.md",
+  "directories": {
+    
+  },
+  "scripts": {
+    
+  },
+  "author": "FancyGrid",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
