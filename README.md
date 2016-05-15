@@ -15,9 +15,9 @@
 ### Commercial Libraries
 * [DevExpress](http://js.devexpress.com/) - huge framework with variety of widgets. Has .NET version.
 * [DHTMLX](http://dhtmlx.com/) - has several products and varienty of widgets.
-* [FancyGrid](http://www.fancygrid.com/) - elegant grid library on JQuery.
-* [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on JQuery.
-* [HandSontable](http://handsontable.com/) - excel-like table on JQuery, has Polymer and Angular versions.
+* [FancyGrid](http://www.fancygrid.com/) - elegant grid library on jQuery.
+* [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on jQuery.
+* [HandSontable](http://handsontable.com/) - excel-like table on jQuery, has Polymer and Angular versions.
 * [Sencha](http://sencha.com/) - huge plugins free framework for developing standalone CRM/ERP systems since big default size.
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - variety of widgets.
