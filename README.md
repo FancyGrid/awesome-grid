@@ -6,33 +6,42 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
-*  [Commercial Libraries](#commercial-libraries)
+*  [Libraries](#libraries)
+*  [Frameworks](#frameworks)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
 *  [Infographic Tools](#infographic-tools)
 
+### Libraries (Plugin Free)
+* [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
+AngularJS directive and jQuery plugin.
+* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
+
 ---
 
-### Commercial Libraries
-* [DevExpress](http://js.devexpress.com/) - huge framework with variety of widgets. Has .NET version.
-* [DHTMLX](http://dhtmlx.com/) - has several products and varienty of widgets.
-* [FancyGrid](http://www.fancygrid.com/) - elegant grid library on jQuery.
-* [JQWidgets](http://www.jqwidgets.com/) - variety of widgets on jQuery.
-* [HandSontable](http://handsontable.com/) - excel-like table on jQuery, has Polymer and Angular versions.
-* [Sencha](http://sencha.com/) - huge plugins free framework for developing standalone CRM/ERP systems since big default size.
+### Frameworks
+* [DevExpress](http://js.devexpress.com/) - huge framework. It has Angular, Angular 2, Knockout, .NET versions.
+* [DHTMLX](http://dhtmlx.com/) - one of the oldest framework. A bit out of date with old API.
+* [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.
+* [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serios market solution for developing  CRM/ERP systems. Since big default size it is used only for Single Page complex solutions. No jQuery and AngularJS intregrations.  
+It has material design theme since 6.2 version.  
+There is .Net version as outside product - [Ext.next](http://ext.net/).
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
-* [Telerik](http://www.telerik.com/) - variety of widgets.
-* [Webix](http://webix.com/) - variety of widgets, has .NET version.
+* [Telerik](http://www.telerik.com/) - provide Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
+* [Webix](http://webix.com/) - variety of widgets, has Backbone.js, AngularJS, .NET versions.
   
 ---
 
 ### Free and Open Source Libraries
 ####JQuery
-* [DataTables](http://datatables.net/) - easy to use library.
-* [JS Grid](http://js-grid.com/) - light grid library.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature( 1 000 000 rows).
+* [DataTables](http://datatables.net/) - easy to use library. It is one of the most spread light solution on jQuery.
+* [JS Grid](http://js-grid.com/) - light grid library with basic grid features.
+* [jqgrid](http://trirand.com/) - variety of grid features, but not modern themes.
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature( 1 000 000 rows). Themes looks out of date,
+but since many features is well known.
 * [w2ui](http://w2ui.com/) - light framework with just 69kb.
 
 #### Angular
+* [ag-grid](http://ag-grid.com/) - number one grid solution on AngularJS.
 * [Angular UI Grid](http://ui-grid.info/) - easy to use library written with AngularJS.
 
 #### React
