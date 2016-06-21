@@ -11,7 +11,7 @@
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
 *  [Infographic Tools](#infographic-tools)
 
-### Libraries (Plugin Free)
+### Libraries (Plugins Free)
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin.
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
@@ -22,11 +22,11 @@ AngularJS directive and jQuery plugin.
 * [DevExpress](http://js.devexpress.com/) - huge framework. It has Angular, Angular 2, Knockout, .NET versions.
 * [DHTMLX](http://dhtmlx.com/) - one of the oldest framework. A bit out of date with old API.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.
-* [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serios market solution for developing  CRM/ERP systems. Since big default size it is used only for Single Page complex solutions. No jQuery and AngularJS intregrations.  
+* [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
 It has material design theme since 6.2 version.  
-There is .Net version as outside product - [Ext.next](http://ext.net/).
+There is .Net version as outside product - [Ext.Net](http://ext.net/).
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
-* [Telerik](http://www.telerik.com/) - provide Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
+* [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
 * [Webix](http://webix.com/) - variety of widgets, has Backbone.js, AngularJS, .NET versions.
   
 ---
