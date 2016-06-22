@@ -28,6 +28,7 @@ There is .Net version as outside product - [Ext.Net](http://ext.net/).
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
 * [Webix](http://webix.com/) - variety of widgets, has Backbone.js, AngularJS, .NET versions.
+* [w2ui](http://w2ui.com/) - light framework on jQuery with just 69kb.
   
 ---
 
@@ -38,7 +39,6 @@ There is .Net version as outside product - [Ext.Net](http://ext.net/).
 * [jqgrid](http://trirand.com/) - variety of grid features, but not modern themes.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature( 1 000 000 rows). Themes looks out of date,
 but since many features is well known.
-* [w2ui](http://w2ui.com/) - light framework with just 69kb.
 
 #### Angular
 * [ag-grid](http://ag-grid.com/) - number one grid solution on AngularJS.
