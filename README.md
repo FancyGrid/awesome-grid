@@ -8,10 +8,10 @@
 ## Table of Contents
 *  [Libraries](#libraries)
 *  [Frameworks](#frameworks)
-*  [Free and Open Source Libraries](#free-and-open-source-libraries)
+*  [Specific Libraries](#specific-libraries)
 *  [Infographic Tools](#infographic-tools)
 
-### Libraries (Plugins Free)
+### Libraries
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin.
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
@@ -32,7 +32,7 @@ There is .Net version as outside product - [Ext.Net](http://ext.net/).
   
 ---
 
-### Free and Open Source Libraries
+### Specific Libraries
 ####JQuery
 * [DataTables](http://datatables.net/) - easy to use library. It is one of the most spread light solution on jQuery.
 * [JS Grid](http://js-grid.com/) - light grid library with basic grid features.
