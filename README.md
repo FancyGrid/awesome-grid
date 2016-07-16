@@ -43,7 +43,7 @@ There is .Net version as outside product - [Ext.Net](http://ext.net/).
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
 * [Vaadin](http://vaadin.com/) - material design widgets on Polymer. It has AngularJS and Java versions.
-* [Webix](http://webix.com/) - variety of widgets, has Backbone.js, AngularJS, .NET versions.
+* [Webix](http://webix.com/) - variety of widgets. It has Backbone.js, AngularJS, .NET versions.
 * [w2ui](http://w2ui.com/) - light framework on jQuery with just 69kb.
 
 ## Infographic Tools
