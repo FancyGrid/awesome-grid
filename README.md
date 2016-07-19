@@ -39,7 +39,9 @@ but since many features is well known.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
 It has material design theme since 6.2 version.  
-There is .Net version as outside product - [Ext.Net](http://ext.net/).
+There is .Net version as outside product - [Ext.Net](http://ext.net/).  
+It has big grid solution: usual grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
+There is even 3-rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.com)
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
 * [Vaadin](http://vaadin.com/) - material design widgets on Polymer. It has AngularJS and Java versions.
