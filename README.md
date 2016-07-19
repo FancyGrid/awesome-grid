@@ -44,7 +44,7 @@ Grid solutions: grid, scheduler, treegrid.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
 It has material design theme since 6.2 version.  
 There is .Net version as outside product - [Ext.Net](http://ext.net/).  
-It has big grid solution: grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
+Grid solutions: grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
 There is even 3-rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.com)
 * [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.  
 Grid solutions: grid with basic features.
