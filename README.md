@@ -19,7 +19,8 @@ AngularJS directive and jQuery plugin.
 ## Specific Libraries
 ###JQuery
 * [DataTables](http://datatables.net/) - easy to use library. It is one of the most spread light solution on jQuery.
-* [JS Grid](http://js-grid.com/) - light grid library with basic grid features.
+* [JS Grid](http://js-grid.com/) - light grid library with basic grid features.  
+Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqgrid](http://trirand.com/) - variety of grid features, but not modern themes.
 * [jTable](https://github.com/hikalkan/jtable) - all main features and focus on CRUD operations.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature ( 1 000 000 rows). Themes looks out of date,
