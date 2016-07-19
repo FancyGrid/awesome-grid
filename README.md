@@ -35,22 +35,27 @@ but since many features is well known.
 * [React-DataGrid](http://zippyui.com/react-datagrid/) - has basic grid features, looks lite but serious.
 
 ## Frameworks
-* [DevExpress](http://js.devexpress.com/) - huge framework. It has AngularJS, AngularJS 2, Knockout, .NET versions.
+* [DevExpress](http://js.devexpress.com/) - huge framework. It has AngularJS, AngularJS 2, Knockout, .NET versions.  
 Grid solutions: grid, pivot, scheduler.
-* [DHTMLX](http://dhtmlx.com/) - one of the oldest framework. A bit out of date with old API.
+* [DHTMLX](http://dhtmlx.com/) - one of the oldest framework. A bit out of date with old API.  
 Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
-* [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.
+* [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.  
 Grid solutions: grid, scheduler, treegrid.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
 It has material design theme since 6.2 version.  
 There is .Net version as outside product - [Ext.Net](http://ext.net/).  
 It has big grid solution: grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
 There is even 3-rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.com)
-* [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.
-* [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.
-* [Vaadin](http://vaadin.com/) - material design widgets on Polymer. It has AngularJS and Java versions.
-* [Webix](http://webix.com/) - variety of widgets. It has Backbone.js, AngularJS, .NET versions.
-* [w2ui](http://w2ui.com/) - light framework on jQuery with just 69kb.
+* [SmartClient](http://www.smartclient.com/) - the oldest one project. Sorely old API, but many features.  
+Grid solutions: grid with basic features.
+* [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .Net version. It does not have AngularJS version.  
+Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
+* [Vaadin](http://vaadin.com/) - material design widgets on Polymer. It has AngularJS and Java versions.  
+Grid solutions: modern grid with basic features.
+* [Webix](http://webix.com/) - variety of widgets. It has Backbone.js, AngularJS, .NET versions.  
+Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
+* [w2ui](http://w2ui.com/) - light framework on jQuery with just 69kb.  
+Grid solutions: light grid solution.
 
 ## Infographic Tools
-* [infogr.am](http://infogr.am) - cloud infographics tool, has light Table widget.
+* [infogr.am](http://infogr.am) - cloud infographics tool, has light grid widget.
