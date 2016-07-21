@@ -17,18 +17,18 @@ AngularJS directive and jQuery plugin.
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
 
 ## Specific Libraries
-###JQuery
+###jQuery
 * [DataTables](http://datatables.net/) - easy to use library. It is one of the most spread light solution on jQuery.
 * [JS Grid](http://js-grid.com/) - light grid library with basic grid features.  
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqgrid](http://trirand.com/) - variety of grid features, but not modern themes.
 * [jTable](https://github.com/hikalkan/jtable) - all main features and focus on CRUD operations.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature ( 1 000 000 rows). Themes looks out of date,
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - many features, has infinite feature (1 000 000 rows). Themes looks out of date,
 but since many features is well known.
 
-### Angular
+### AngularJS
 * [ag-grid](http://ag-grid.com/) - number one grid solution on AngularJS.
-* [Angular UI Grid](http://ui-grid.info/) - easy to use library written with AngularJS.
+* [AngularJS UI Grid](http://ui-grid.info/) - easy to use library written with AngularJS.
 
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - simple grid library.
