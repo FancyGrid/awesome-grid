@@ -35,7 +35,7 @@ but since many features is well known.
 * [React-DataGrid](http://zippyui.com/react-datagrid/) - Has basic grid features, looks lite but serious.
   
 ### EmberJS
-* [ember-table](https://github.com/addepar/ember-table) - Proffesional grid widget library from [Addepar](https://www.addepar.com/).  
+* [ember-table](https://github.com/addepar/ember-table) - Proffesional grid library from [Addepar](https://www.addepar.com/).  
 
 ## Frameworks
 * [DevExpress](http://js.devexpress.com/) - Huge framework. It has AngularJS, AngularJS 2, Knockout, .NET versions.  
