@@ -33,7 +33,7 @@ but since many features is well known.
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.
 * [React-DataGrid](http://zippyui.com/react-datagrid/) - Has basic grid features, looks lite but serious.
-* 
+  
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Proffesional grid widget library from [Addepar](https://www.addepar.com/).  
 
