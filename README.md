@@ -48,7 +48,7 @@ Grid solutions: grid, scheduler, treegrid.
 It has material design theme since 6.2 version.  
 There is .NET version as outside product - [Ext.NET](http://ext.net/).  
 Grid solutions: grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
-There is even 3-rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.com)
+There is even 3rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.com)
 * [SmartClient](http://www.smartclient.com/) - The oldest one project. Sorely old API, but many features.  
 Grid solutions: grid with basic features.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .NET version. It does not have AngularJS version.  
