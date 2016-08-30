@@ -29,6 +29,8 @@ but since many features is well known.
 * [AngularJS UI Grid](http://ui-grid.info/) - Easy to use library written with AngularJS.
 
 ### React
+* [fixed-data-table](http://facebook.github.io/fixed-data-table/) - A table component designed to allow presenting thousands of rows of data.  
+Done by Facebook team.  
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.
 * [React-DataGrid](http://zippyui.com/react-datagrid/) - Has basic grid features, looks lite but serious.
   
