@@ -37,6 +37,9 @@ Done by Facebook team.
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
 
+### Vue.js
+* [vue-table](https://github.com/ratiw/vue-table) - a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+
 ## Frameworks
 * [DevExpress](http://js.devexpress.com/) - Huge framework. It has AngularJS, AngularJS 2, Knockout, .NET versions.  
 Grid solutions: grid, pivot, scheduler.
