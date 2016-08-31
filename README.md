@@ -26,7 +26,7 @@ but since many features is well known.
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
-* [AngularJS UI Grid](http://ui-grid.info/) - Easy to use library written with AngularJS.
+* [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### React
 * [fixed-data-table](http://facebook.github.io/fixed-data-table/) - A table component designed to allow presenting thousands of rows of data.  
