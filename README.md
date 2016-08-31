@@ -13,6 +13,8 @@
 
 ## Libraries
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
+* [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
+AngularJS directive and jQuery plugin. There is big form module.  
 
 ## Specific Libraries
 ###jQuery
@@ -45,8 +47,6 @@ Done by Facebook team.
 Grid solutions: grid, pivot, scheduler.
 * [DHTMLX](http://dhtmlx.com/) - One of the oldest framework. A bit out of date with old API.  
 Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
-* [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
-AngularJS directive and jQuery plugin. There is big form module.  
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.  
 Grid solutions: grid, scheduler, treegrid.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
