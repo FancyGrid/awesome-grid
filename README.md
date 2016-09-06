@@ -20,13 +20,14 @@ AngularJS directive and jQuery plugin. There is big form module.
 
 ## Specific Libraries
 ###jQuery
-* [DataTables](http://datatables.net/) - Easy to use library. It is one of the most spread light solution on jQuery.
+* [DataTables](http://datatables.net/) - Easy to use library. It is one of the most spread light solution on jQuery.  
+* [Dynatable](http://dynatable.com/) - JavaScript grid library on jQuery, there are basic features. Last update in 2014!  
 * [JS Grid](http://js-grid.com/) - Light grid library with basic grid features.  
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqgrid](http://trirand.com/) - Variety of grid features, but not modern themes.
 * [jTable](https://github.com/hikalkan/jtable) - All main features and focus on CRUD operations.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features, has infinite feature (1 000 000 rows). Themes looks out of date,
-but since many features is well known.
+but since many features is well known. Last update in 2014!  
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
@@ -52,7 +53,7 @@ Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
 * [EasyUI](http://www.jeasyui.com/) - Light and fast jQuery UI library with many widgets.  
 Grid solutions: grid, treegrid.
 * [Infragistics(IgniteUI)](http://infragistics.com/products/jquery) - Framework with .NET, Silverlight, Mobile, JavaScript versions. JavaScript version has name IgniteUI. It is jQuery based UI.
-Grid solutions: grid, treegrid.
+Grid solutions: grid, treegrid, pivot.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.  
 Grid solutions: grid, scheduler, treegrid.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
