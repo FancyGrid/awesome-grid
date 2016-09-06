@@ -12,9 +12,10 @@
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
-* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin. There is big form module.  
+* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
+* [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax but product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all doc on korean.  
 
 ## Specific Libraries
