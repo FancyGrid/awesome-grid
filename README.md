@@ -49,6 +49,8 @@ Done by Facebook team.
 Grid solutions: grid, pivot, scheduler.
 * [DHTMLX](http://dhtmlx.com/) - One of the oldest framework. A bit out of date with old API.  
 Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
+* [EasyUI](http://www.jeasyui.com/) - Light and fast jQuery UI library with many widgets.  
+Grid solutions: grid, treegrid.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with full list of widgets.  
 Grid solutions: grid, scheduler, treegrid.
 * [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Since big default size it is used only for SP complex solutions. No jQuery and AngularJS intregrations.  
