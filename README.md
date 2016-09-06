@@ -70,8 +70,8 @@ Grid solutions: grid with basic features.
 Grid solutions: grid, treegrid, spreadsheet, pivot, gantt.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .NET version. It does not have AngularJS version.  
 Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
-* [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.  
-Grid solutions: modern grid with basic features with Free license(Apache 2.0).
+* [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.   
+Grid solutions: modern grid with basic features with Free license(Apache 2.0).  
 Important: it supports only latest browsers version!
 * [Webix](http://webix.com/) - Variety of widgets. It has Backbone.js, AngularJS, .NET versions.  
 Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
