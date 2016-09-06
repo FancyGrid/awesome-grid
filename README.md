@@ -9,6 +9,7 @@
 *  [Libraries](#libraries)
 *  [Specific Libraries](#specific-libraries)
 *  [Frameworks](#frameworks)
+*  [Specific products](#specific-products)
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
@@ -16,7 +17,7 @@
 AngularJS directive and jQuery plugin. There is big form module.  
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax but product looks out of date with old site design and functionality.  
-* [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all doc on korean.  
+* [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all docs on korean.  
 
 ## Specific Libraries
 ###jQuery
@@ -75,6 +76,11 @@ Grid solutions: modern grid with basic features.
 Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 * [w2ui](http://w2ui.com/) - Light framework on jQuery with just 69kb.  
 Grid solutions: light grid solution.
+
+## Specific products
+* [fullcalendar](http://fullcalendar.io) - Professional JavaScript calendar and schedule library.
+* [redbooth](http://redbooth.com) - gantt service.
+* [tablein](http://tablein.com) - multi-language restaurant table booking system. It has awesome functionality.
 
 ## Infographic Tools
 * [infogr.am](http://infogr.am) - Cloud infographics tool, has light grid widget.
