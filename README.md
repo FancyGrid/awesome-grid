@@ -15,20 +15,20 @@
 ## Libraries
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin. There is big form module.  
-* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table, has Polymer and AngularJS versions.
-* [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax but product looks out of date with old site design and functionality.  
+* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table. It has Polymer and AngularJS versions.
+* [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
+Product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all docs on korean.  
 
 ## Specific Libraries
 ###jQuery
-* [DataTables](http://datatables.net/) - Easy to use library. It is one of the most spread light solution on jQuery.  
+* [DataTables](http://datatables.net/) - Easy to use library. It is number grid solution on jQuery.  
 * [Dynatable](http://dynatable.com/) - JavaScript grid library on jQuery, there are basic features. Last update in 2014!  
-* [JS Grid](http://js-grid.com/) - Light grid library with basic grid features.  
+* [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
-* [jqgrid](http://trirand.com/) - Variety of grid features, but not modern themes.
+* [jqGrid](http://trirand.com/) - Variety of grid features, but it has not modern themes.
 * [jTable](https://github.com/hikalkan/jtable) - All main features and focus on CRUD operations.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features, has infinite feature (1 000 000 rows). Themes looks out of date,
-but since many features is well known. Last update in 2014!  
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even infinite feature (1 000 000 rows). Themes looks out of date, but product is well known. Last update in 2014!  
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
@@ -37,8 +37,8 @@ but since many features is well known. Last update in 2014!
 ### React
 * [fixed-data-table](http://facebook.github.io/fixed-data-table/) - A table component designed to allow presenting thousands of rows of data.  
 Done by Facebook team.  
-* [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.
-* [React-DataGrid](http://zippyui.com/react-datagrid/) - Has basic grid features, looks lite but serious.
+* [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
+* [React-DataGrid](http://zippyui.com/react-datagrid/) - It has basic grid features, looks lite but serious.
   
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
@@ -71,7 +71,8 @@ Grid solutions: grid, treegrid, spreadsheet, pivot, gantt.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .NET version. It does not have AngularJS version.  
 Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
 * [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.  
-Grid solutions: modern grid with basic features.
+Grid solutions: modern grid with basic features with Free license(Apache 2.0).
+Important: it supports only latest browsers version!
 * [Webix](http://webix.com/) - Variety of widgets. It has Backbone.js, AngularJS, .NET versions.  
 Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 * [w2ui](http://w2ui.com/) - Light framework on jQuery with just 69kb.  
