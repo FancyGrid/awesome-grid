@@ -19,6 +19,8 @@ AngularJS directive and jQuery plugin. There is big form module.
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 Product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all docs on korean.  
+* [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid, and Data Presentation Components. There is .NET version.  
+Serious product but complex documention and samples organization.  
 
 ## Specific Libraries
 ###jQuery
