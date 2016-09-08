@@ -24,6 +24,7 @@ Serious product but complex documention and samples organization.
 
 ## Specific Libraries
 ###jQuery
+* [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features, but old design.  
 * [DataTables](http://datatables.net/) - Easy to use library. It is number one grid solution on jQuery.  
 * [Dynatable](http://dynatable.com/) - JavaScript grid library on jQuery, there are basic features. Last update in 2014!  
 * [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
