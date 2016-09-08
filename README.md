@@ -22,7 +22,7 @@ Product looks out of date with old site design and functionality.
 
 ## Specific Libraries
 ###jQuery
-* [DataTables](http://datatables.net/) - Easy to use library. It is number grid solution on jQuery.  
+* [DataTables](http://datatables.net/) - Easy to use library. It is number one grid solution on jQuery.  
 * [Dynatable](http://dynatable.com/) - JavaScript grid library on jQuery, there are basic features. Last update in 2014!  
 * [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
@@ -38,7 +38,8 @@ Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [fixed-data-table](http://facebook.github.io/fixed-data-table/) - A table component designed to allow presenting thousands of rows of data.  
 Done by Facebook team.  
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
-* [React-DataGrid](http://zippyui.com/react-datagrid/) - It has basic grid features, looks lite but serious.
+* [React-DataGrid(zippyui)](http://zippyui.com/react-datagrid/) - It has basic grid features, looks lite but serious.
+* [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.
   
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
