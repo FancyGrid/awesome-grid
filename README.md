@@ -28,6 +28,8 @@ Product looks out of date with old site design and functionality.
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqGrid](http://trirand.com/) - Variety of grid features, but it has not modern themes.
 * [jTable](https://github.com/hikalkan/jtable) - All main features and focus on CRUD operations.
+* [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.  
+* Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even infinite feature (1 000 000 rows). Themes looks out of date, but product is well known. Last update in 2014!  
 
 ### AngularJS
