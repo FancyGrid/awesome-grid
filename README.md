@@ -24,16 +24,16 @@ Serious product but complex documention and samples organization.
 
 ## Specific Libraries
 ###jQuery
-* [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features, but old design.  
+* [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features but old design.  
 * [DataTables](http://datatables.net/) - Easy to use library. It is number one grid solution on jQuery.  
-* [Dynatable](http://dynatable.com/) - JavaScript grid library on jQuery, there are basic features. Last update in 2014!  
+* [Dynatable](http://dynatable.com/) - It has basic features. Last update in 2014!  
 * [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
 Author is former core architect of [DevExpress](http://js.devexpress.com/).
-* [jqGrid](http://trirand.com/) - Variety of grid features, but it has not modern themes.
+* [jqGrid](http://trirand.com/) - Variety of grid features.  
 * [jTable](https://github.com/hikalkan/jtable) - All main features and focus on CRUD operations.
 * [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.  
-* Good features realization.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even infinite feature (1 000 000 rows). Themes looks out of date, but product is well known. Last update in 2014!  
+Good features realization.
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
