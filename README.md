@@ -92,6 +92,7 @@ Grid solutions: light grid solution.
 * [fullcalendar](http://fullcalendar.io) - Professional JavaScript calendar and schedule library.
 * [redbooth](http://redbooth.com) - gantt service.
 * [tablein](http://tablein.com) - multi-language restaurant table booking system. It has awesome functionality.
+* [wpDataTables](http://wpdatatables.com/) - WordPress Table Plugin.
 
 ## Infographic Tools
 * [infogr.am](http://infogr.am) - Cloud infographics tool, has light grid widget.
