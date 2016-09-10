@@ -50,7 +50,8 @@ Done by Facebook team.
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
 
 ### Vue.js
-* [vue-table](https://github.com/ratiw/vue-table) - a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+* [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component.
+* [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
 
 ### Dojo 
 * [dgrid](http://dgrid.io/) - Full featured, lightweight data grid library.  
