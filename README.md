@@ -20,7 +20,7 @@ AngularJS directive and jQuery plugin. There is big form module.
 Product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Proffesional grid library on Canvas for Enterprise but almost all docs on korean.  
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid, and Data Presentation Components. There is .NET version.  
-Serious product but complex documention and samples organization.  
+Serious product but complex documentation and samples organization.  
 
 ## Specific Libraries
 ###jQuery
@@ -34,6 +34,7 @@ Author is former core architect of [DevExpress](http://js.devexpress.com/).
 * [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.  
 Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
+* [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used for fast enabling sorting for html table.  
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
