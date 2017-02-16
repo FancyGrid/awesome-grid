@@ -38,7 +38,7 @@ Good features realization.
 
 ### AngularJS
 * [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
-* [Angular2 Grid](http://swimlane.github.io/angular2-data-table/) - Professional Angular2 Grid with basic features.
+* [Angular2 Grid](https://swimlane.gitbooks.io/ngx-datatable/) - Professional Angular2 Grid with basic features.
 * [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### React
