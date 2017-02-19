@@ -71,7 +71,7 @@ Grid solutions: grid, treegrid.
 Grid solutions: grid, treegrid, pivot.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with a full list of widgets.  
 Grid solutions: grid, scheduler, treegrid.
-* [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. ue to it's large size it is used only for SP complex solutions. No jQuery or AngularJS integrations.  
+* [Sencha](http://sencha.com/) - The biggest JavaScript Framework. Robust API. It is the most serious market solution for developing  CRM/ERP systems. Due to it's large size it is used only for SP complex solutions. No jQuery or AngularJS integrations.  
 It has a material design theme since 6.2 version.  
 There is a .NET version as an external product - [Ext.NET](http://ext.net/).  
 Grid solutions: grid with all features, tree grid, pivot, calendar, spreadsheets, infinite.  
