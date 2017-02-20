@@ -31,7 +31,8 @@ SpreadJS is a serious product but the documentation and samples organization is 
 The author is a former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqGrid](http://trirand.com/) - Variety of grid features.  
 * [jTable](https://github.com/hikalkan/jtable) - All main features and a focus on CRUD operations.
-* [MiniUI](http://miniui.com) - Collections of widgets. There are some base grid features. But all documetation is on Chinise.  
+* [MiniUI](http://miniui.com) - Collections of widgets. There are some base grid features. There are PHP, Java and .NET versions.  
+But all documetation is on Chinise.  
 * [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.  
 Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
