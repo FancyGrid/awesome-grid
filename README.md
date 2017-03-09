@@ -13,9 +13,13 @@
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
+* [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
+Angular 1, Angular2, Aurelia, VueJs, Web Components.  
+It has both free and commercial licences.  Free is limited on features.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin. There is a big form module.  
-* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table. It has Polymer and AngularJS versions.
+* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table. It has Polymer and AngularJS versions.  
+ It has both free and commercial licences.  Free is limited on features.
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 Product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
@@ -38,7 +42,6 @@ Good features realization.
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
 
 ### AngularJS
-* [ag-grid](http://ag-grid.com/) - Number one grid solution on AngularJS.
 * [Angular2 Grid](https://swimlane.gitbooks.io/ngx-datatable/) - Professional Angular2 Grid with basic features.
 * [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
