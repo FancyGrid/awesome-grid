@@ -14,7 +14,7 @@
 
 ## Libraries
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
-Angular 1, Angular2, Aurelia, VueJs, Web Components.  
+Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 AngularJS directive and jQuery plugin. There is a big form module.  
