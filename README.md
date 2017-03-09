@@ -91,7 +91,8 @@ Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
 * [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.   
 Grid solutions: modern grid with basic features with Free license(Apache 2.0).  
 Important: it supports only latest browsers versions!
-* [Webix](http://webix.com/) - Variety of widgets. It has Backbone.js, AngularJS, .NET versions.  
+* [Webix](http://webix.com/) - Variety of widgets. It has Backbone.js, Angular 1, Angular2, VueJS and custom integrations.  
+There is .NET version.
 Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 * [w2ui](http://w2ui.com/) - Light framework on jQuery with just 69kb.  
 Grid solutions: light grid solution.
