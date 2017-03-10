@@ -41,10 +41,8 @@ Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
 
-### Angular
-* [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
-
-## AngularJS
+### AngularJS
+* [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
 * [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### React
