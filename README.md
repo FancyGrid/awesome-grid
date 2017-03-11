@@ -1,7 +1,7 @@
 ![](http://fancygrid.com/img/awesome.png)
 #Awesome Grid
 
-> A curated list of grid(table) libraries and resources that developers may find useful. Focused on JavaScript grid libraries for different uses. Ordered alphabetically by category.
+> A curated list of data grid/table libraries and resources that developers may find useful. This list focused on JavaScript data grid libraries and not CSS-based grids for page layout. The list is ordered alphabetically by category.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
