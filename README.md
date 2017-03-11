@@ -52,6 +52,7 @@ Done by Facebook team.
 * [React-DataGrid(zippyui)](http://zippyui.com/react-datagrid/) - It has basic grid features. It looks lite but it is powerful.
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
+* [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It's a react table for twitter bootstrap.
   
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
