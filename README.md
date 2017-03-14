@@ -26,7 +26,7 @@ AngularJS directive and jQuery plugin. There is a big form module.
 SpreadJS is a serious product but the documentation and samples organization is complex.  
 
 ## Specific Libraries
-###jQuery
+### jQuery
 * [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
 * [DataTables](http://datatables.net/) - Easy to use library. It is the number one grid solution on jQuery.  
 * [Dynatable](http://dynatable.com/) - It has basic features. Last update in 2014!  
