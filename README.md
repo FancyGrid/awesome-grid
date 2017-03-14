@@ -21,9 +21,8 @@ AngularJS directive and jQuery plugin. There is a big form module.
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table. It has Polymer and AngularJS versions.  
  It has both free and commercial licences.  Free is limited on features.
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
-Product looks out of date with old site design and functionality.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
-* [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid, and Data Presentation Components. There is a .NET version.  
+* [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
 
 ## Specific Libraries
