@@ -1,5 +1,5 @@
 ![](http://fancygrid.com/img/awesome.png)
-#Awesome Grid
+# Awesome Grid
 
 > A curated list of data grid/table libraries and resources that developers may find useful. This list focuses on JavaScript-based data grid libraries and not CSS-based grid systems for page layout. The list is ordered alphabetically by category.
 
