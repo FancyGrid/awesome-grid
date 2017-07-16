@@ -99,6 +99,7 @@ Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 Grid solutions: light grid solution.
 
 ## Specific products
+* [Cal-Heatmap](http://cal-heatmap.com/) - javascript module to create calendar heatmap to visualize time series data
 * [fullcalendar](http://fullcalendar.io) - Professional JavaScript calendar and schedule library.
 * [redbooth](http://redbooth.com) - gantt service.
 * [tablein](http://tablein.com) - multi-language restaurant table booking system. It has awesome functionality.
