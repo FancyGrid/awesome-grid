@@ -52,7 +52,7 @@ Done by Facebook team.
 * [React-DataGrid(zippyui)](http://zippyui.com/react-datagrid/) - It has basic grid features. It looks lite but it is powerful.  
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.  
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
-  
+
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
 
@@ -61,12 +61,12 @@ Done by Facebook team.
 * [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
 * [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
 
-### Dojo 
+### Dojo
 * [dgrid](http://dgrid.io/) - Full featured, lightweight data grid library.  
 * [DridX](http://oria.github.io/gridx/) - Featured grid solution.  
 
 ## Frameworks
-* [DevExpress](http://js.devexpress.com/) - Huge framework. It has AngularJS, AngularJS 2, Knockout, .NET versions.  
+* [DevExpress](http://js.devexpress.com/) - Huge framework. It has AngularJS, Angular 2, Knockout, .NET versions.  
 Grid solutions: grid, pivot, scheduler.
 * [DHTMLX](http://dhtmlx.com/) - One of the oldest frameworks. A bit out of date with old API.  
 Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
