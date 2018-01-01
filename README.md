@@ -100,10 +100,11 @@ Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 Grid solutions: light grid solution.
 
 ## Specific products
-* [Cal-Heatmap](http://cal-heatmap.com/) - javascript module to create calendar heatmap to visualize time series data
+* [Cal-Heatmap](http://cal-heatmap.com/) - JavaScript module to create calendar heatmap to visualize time series data
 * [fullcalendar](http://fullcalendar.io) - Professional JavaScript calendar and schedule library.
-* [redbooth](http://redbooth.com) - gantt service.
-* [tablein](http://tablein.com) - multi-language restaurant table booking system. It has awesome functionality.
+* [productboard](https://productboard.com) - Service with interesting grids inside.
+* [redbooth](http://redbooth.com) - Gantt service.
+* [tablein](http://tablein.com) - Multi-language restaurant table booking system. It has awesome functionality.
 * [wpDataTables](http://wpdatatables.com/) - WordPress Table Plugin. This plugin relies on [DataTables](http://datatables.net/)
 
 ## Infographic Tools
