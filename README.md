@@ -17,9 +17,12 @@
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
-AngularJS directive and jQuery plugin. There is a big form module.  
-* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table. It has Polymer and AngularJS versions.  
+There is a big form module.  
+It supports major javascript frameworks:  
+Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
+* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It has both free and commercial licences.  Free is limited on features.
+ Angular 1, Angular2, React, VueJs, Web Components.  
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
