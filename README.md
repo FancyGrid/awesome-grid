@@ -49,7 +49,7 @@ Good features realization.
 
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
-* [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - Light table for twitter bootstrap.  
+* [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.  
 * [React datasheet](https://nadbm.github.io/react-datasheet) - Simple and highly customizable excel-like spreadsheet.  
