@@ -63,7 +63,7 @@ Good features realization.
 ### Vue.js
 * [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display it nicely in a html table with swappable/extensible pagination component.
 * [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
-* [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
+* [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. See [DataTable documentation](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) and [DataTable example](http://codepen.io/andrewcourtice/full/woQzpa). Currently not maintained but in a good shape.
 
 ### Dojo
 * [dgrid](http://dgrid.io/) - Full featured, lightweight data grid library.  
