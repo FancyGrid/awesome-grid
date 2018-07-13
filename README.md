@@ -57,6 +57,7 @@ Good features realization.
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
 * [react-virtualized](https://bvaughn.github.io/react-virtualized)
 * [fixed-data-table-2](http://schrodinger.github.io/fixed-data-table-2/)
+* [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
@@ -65,6 +66,7 @@ Good features realization.
 * [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display it nicely in a html table with swappable/extensible pagination component.
 * [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
 * [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
+* [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid
 
 ### Dojo
 * [dgrid](http://dgrid.io/) - Full featured, lightweight data grid library.  
