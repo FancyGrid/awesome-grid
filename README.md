@@ -43,6 +43,7 @@ The author is a former core architect of [DevExpress](http://js.devexpress.com/)
 Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
+* [jExcel](https://github.com/paulhodel/jexcel) - jExcel is is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to a jExcel table from a JS array, json or even a CSV file.
 
 ### AngularJS
 * [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
