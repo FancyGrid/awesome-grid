@@ -33,7 +33,8 @@ SpreadJS is a serious product but the documentation and samples organization is 
 * [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
 * [DataTables](http://datatables.net/) - Easy to use library. It is the number one grid solution on jQuery.  
 * [Dynatable](http://dynatable.com/) - It has basic features. Last update in 2014!  
-* [Frappe DataTable](https://frappe.io/datatable) - A simple, modern and interactive datatable library on es6. Current version is full of small bugs.    
+* [Frappe DataTable](https://frappe.io/datatable) - A simple, modern and interactive datatable library on es6. Current version is full of small bugs.  
+* [jExcel](https://github.com/paulhodel/jexcel) - jExcel is is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to a jExcel table from a JS array, json or even a CSV file.  
 * [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
 The author is a former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqGrid](http://trirand.com/) - Variety of grid features.  
@@ -43,7 +44,6 @@ The author is a former core architect of [DevExpress](http://js.devexpress.com/)
 Good features realization.
 * [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
-* [jExcel](https://github.com/paulhodel/jexcel) - jExcel is is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to a jExcel table from a JS array, json or even a CSV file.
 
 ### AngularJS
 * [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
