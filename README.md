@@ -93,8 +93,8 @@ There is a 3rd party ExtJS based Gantt and Scheduler - [bryntum](http://bryntum.
 Grid solutions: there are both basic and advanced features. But there are some bugs in the samples and has old design.  
 * [SmartClient](http://www.smartclient.com/) - The oldest project in this list. Old API, but many features.  
 Grid solutions: grid with basic features.
-* [Syncfusion](http://www.syncfusion.com/) - Framework with .NET, Silverlight, JavaScript versions.
-Grid solutions: grid, treegrid, spreadsheet, pivot, gantt.
+* [Syncfusion](https://www.syncfusion.com/products/javascript/) - Syncfusion offers a complete solution with 50+ components in multiple frameworks such as Angular, React, Vue, etc.
+Grid solutions: grid, treegrid, spreadsheet, pivot grid, gantt.
 * [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .NET, MVC and PHP versions. It now has an AngularJS 2 version.
 Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
 * [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.   
