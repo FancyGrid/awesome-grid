@@ -107,7 +107,8 @@ Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
 Grid solutions: light grid solution.
 
 ## Specific products
-* [Cal-Heatmap](http://cal-heatmap.com/) - JavaScript module to create calendar heatmap to visualize time series data
+* [Cal-Heatmap](http://cal-heatmap.com/) - JavaScript module to create calendar heatmap to visualize time series data.
+* [Elegantt](https://elegantt.com/) - Awesome Gantt charts for Trello.
 * [fullcalendar](http://fullcalendar.io) - Professional JavaScript calendar and schedule library.
 * [productboard](https://productboard.com) - Service with interesting grids inside.
 * [redbooth](http://redbooth.com) - Gantt service.
