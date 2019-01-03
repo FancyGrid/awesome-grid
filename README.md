@@ -20,6 +20,7 @@ It has both free and commercial licences.  Free is limited on features.
 There is a big form module.  
 It supports major javascript frameworks:  
 Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
+* [FlexGrid](https://www.grapecity.com/en/wijmo-flexgrid) - A fast and flexible JavaScript data grid with zero dependencies. FlexGrid has deep integration with frameworks like Angular, React, Vue and Web Components.  
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It has both free and commercial licences.  Free is limited on features.  
  It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
@@ -27,6 +28,7 @@ Angular 1, Angular2, jQuery, React, VueJs, Web Components.
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
+
 
 ## Specific Libraries
 ### jQuery
