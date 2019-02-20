@@ -21,6 +21,7 @@ There is a big form module.
 It supports major javascript frameworks:  
 Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
 * [FlexGrid](https://www.grapecity.com/en/wijmo-flexgrid) - A fast and flexible JavaScript data grid with zero dependencies. FlexGrid has deep integration with frameworks like Angular, React, Vue and Web Components.  
+* [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It has both free and commercial licences.  Free is limited on features.  
  It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
