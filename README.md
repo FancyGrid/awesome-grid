@@ -20,7 +20,6 @@ It has both free and commercial licences.  Free is limited on features.
 There is a big form module.  
 It supports major javascript frameworks:  
 Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
-* [FlexGrid](https://www.grapecity.com/en/wijmo-flexgrid) - A fast and flexible JavaScript data grid with zero dependencies. FlexGrid has deep integration with frameworks like Angular, React, Vue and Web Components.  
 * [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
 * [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It has both free and commercial licences.  Free is limited on features.  
@@ -83,6 +82,7 @@ Grid solutions: grid, pivot, scheduler.
 Grid solutions: grid, pivot, scheduler, treegrid, spreadsheet.
 * [EasyUI](http://www.jeasyui.com/) - Light and fast jQuery UI library with many widgets.  
 Grid solutions: grid, treegrid.
+* [FlexGrid](https://www.grapecity.com/en/wijmo-flexgrid) - A fast and flexible JavaScript data grid with zero dependencies. FlexGrid has deep integration with frameworks like Angular, React, Vue and Web Components. It is dependable on Wijmo framework.  
 * [Infragistics(IgniteUI)](http://infragistics.com/products/jquery) - Framework with .NET, Silverlight, Mobile, JavaScript versions. JavaScript version has name IgniteUI. It is jQuery based UI.
 Grid solutions: grid, treegrid, pivot.
 * [JQWidgets](http://www.jqwidgets.com/) - jQuery based UI library with a full list of widgets.  
