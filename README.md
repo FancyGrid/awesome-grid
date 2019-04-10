@@ -21,8 +21,8 @@ There is a big form module.
 It supports major javascript frameworks:  
 Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
 * [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
-* [HandSontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
- It has both free and commercial licences.  Free is limited on features.  
+* [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
+ It has a commercial licence. 
  It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
