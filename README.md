@@ -29,7 +29,6 @@ Angular 1, Angular2, jQuery, React, VueJs, Web Components.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
 
-
 ## Specific Libraries
 ### jQuery
 * [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
@@ -40,7 +39,8 @@ SpreadJS is a serious product but the documentation and samples organization is 
 * [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
 The author is a former core architect of [DevExpress](http://js.devexpress.com/).
 * [jqGrid](http://trirand.com/) - Variety of grid features.  
-* [jTable](https://github.com/hikalkan/jtable) - All main features and a focus on CRUD operations.
+* [jTable](https://github.com/hikalkan/jtable) - All main features and a focus on CRUD operations.  
+* [Kendo UI Grid for jQuery](https://demos.telerik.com/kendo-ui/grid/index) - jQuery grid component with Bootstrap, Material and Default themes. 
 * [MiniUI](http://miniui.com) - A collection of widgets. There are some basic grid features. There are PHP, Java and .NET versions. All documentation is in Chinese.
 * [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.
 Good features realization.
@@ -48,18 +48,20 @@ Good features realization.
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
 
 ### AngularJS
+* [Kendo UI Grid for Angular](https://www.telerik.com/kendo-angular-ui/components/grid/) - Angular grid component with Bootstrap, Material and Default themes. 
 * [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
 * [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
+* [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - React grid component with Bootstrap, Material and Default themes.  
 * [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.  
 * [React datasheet](https://nadbm.github.io/react-datasheet) - Simple and highly customizable excel-like spreadsheet.  
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
-* [react-virtualized](https://bvaughn.github.io/react-virtualized)
-* [fixed-data-table-2](http://schrodinger.github.io/fixed-data-table-2/)
+* [react-virtualized](https://bvaughn.github.io/react-virtualized)  
+* [fixed-data-table-2](http://schrodinger.github.io/fixed-data-table-2/)  
 * [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design
 
 ### EmberJS
@@ -98,7 +100,7 @@ Grid solutions: there are both basic and advanced features. But there are some b
 Grid solutions: grid with basic features.
 * [Syncfusion](https://www.syncfusion.com/products/javascript/) - Syncfusion offers a complete solution with 50+ components in multiple frameworks such as Angular, React, Vue, etc.
 Grid solutions: grid, treegrid, spreadsheet, pivot grid, gantt.
-* [Telerik](http://www.telerik.com/) - Telerik provides Kendo UI JS framework. Variety of widgets. It has .NET, MVC and PHP versions. It now has an AngularJS 2 version.
+* [Telerik's Kendo UI](https://www.telerik.com/kendo-ui) - Telerik provides Kendo UI JS framework. Variety of widgets. It has JavaScript, .NET, MVC and PHP versions including Angular, React and Vue flavors for specific JS Frameworks.
 Grid solutions: grid, scheduler, treegrid, scheduler, spreadsheet.
 * [Vaadin](http://vaadin.com/) - Material design widgets on Polymer. It has AngularJS and Java versions.   
 Grid solutions: modern grid with basic features with Free license(Apache 2.0).  
@@ -117,7 +119,7 @@ Grid solutions: light grid solution.
 * [redbooth](http://redbooth.com) - Gantt service.
 * [Smartsheet](https://smartsheet.com) - Popular cloud service to manage grid/excel.
 * [tablein](http://tablein.com) - Multi-language restaurant table booking system. It has awesome functionality.
-* [wpDataTables](http://wpdatatables.com/) - WordPress Table Plugin. This plugin relies on [DataTables](http://datatables.net/)
+* [wpDataTables](http://wpdatatables.com/) - WordPress Table Plugin. This plugin relies on [DataTables](http://datatables.net/).
 
 ## Infographic Tools
 * [infogr.am](http://infogr.am) - Cloud infographics tool, has light grid widget.
