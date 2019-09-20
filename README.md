@@ -60,8 +60,8 @@ Good features realization.
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
 * [react-virtualized](https://bvaughn.github.io/react-virtualized)
 * [fixed-data-table-2](http://schrodinger.github.io/fixed-data-table-2/)
-* [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design
-* [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - A smart data table component for React.js meant to be configuration free
+* [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design.
+* [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
