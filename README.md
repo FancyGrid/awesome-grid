@@ -25,6 +25,7 @@ Angular 1, Angular2, jQuery, React, VueJs, Web Components.
  It has a commercial licence. 
  It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
+* [Muuri](http://haltu.github.io/muuri) - JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
