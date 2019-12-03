@@ -107,6 +107,7 @@ Important: it supports only latest browsers versions!
 * [Webix](http://webix.com/) - Variety of widgets. It has Backbone.js, Angular 1, Angular2, VueJS and custom integrations.  
 There is .NET version.
 Grid solutions: grid, treegrid, scheduler, pivot, spreadsheet.
+* [WiseJ](https://wisej.com/) - Fully-featured mature drop-in implementation of WinForms.NET for the Web. Is a wrapper of qooxdoo; is skinnable and customizable, supports mobile layout, websockets. Grid solutions: DataGridView (virtual scroll, freezing columns), TreeView, ListView, Repeaters. Supports background load of the data.
 * [w2ui](http://w2ui.com/) - Light framework on jQuery with just 69kb.  
 Grid solutions: light grid solution.
 
