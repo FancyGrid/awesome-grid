@@ -13,6 +13,7 @@
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
+* [atomic-layout](https://github.com/kettanaito/atomic-layout) - Physical representation of layout composition to create declarative responsive layouts in React using CSS Grid.
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
