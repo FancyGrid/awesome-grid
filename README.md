@@ -62,6 +62,7 @@ Good features realization.
 * [fixed-data-table-2](http://schrodinger.github.io/fixed-data-table-2/)
 * [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design.
 * [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
+* [crafts-smart-grid](https://mukuljainx.github.io/smart-grid/) - Highly Customizable light weight(< 1kb) react grid.
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
