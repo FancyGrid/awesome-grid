@@ -28,6 +28,7 @@ Angular 1, Angular2, jQuery, React, VueJs, Web Components.
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
+* [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.
 
 
 ## Specific Libraries
