@@ -13,6 +13,7 @@
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
+* [Grid.js](http://gridjs.io/) - Advanced table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. 
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
