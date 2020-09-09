@@ -29,6 +29,7 @@ Angular 1, Angular2, jQuery, React, VueJs, Web Components.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.
+* [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponet. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 
 
 ## Specific Libraries
