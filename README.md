@@ -13,7 +13,6 @@
 *  [Infographic Tools](#infographic-tools)
 
 ## Libraries
-* [Grid.js](http://gridjs.io/) - Advanced table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. 
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
@@ -22,6 +21,8 @@ There is a big form module.
 It supports major javascript frameworks:  
 Angular 1, Angular2, jQuery, React, VueJs, Web Components.  
 * [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
+* [Grid.js](http://gridjs.io/) - Table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. It extends native HTML table. It does not provide 
+many modern Enterprise grid features.
 * [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It has a commercial licence. 
  It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
