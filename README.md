@@ -66,6 +66,7 @@ Good features realization.
 * [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design.
 * [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
 * [Smart Grid](https://mukuljainx.github.io/smart-grid/) - Light React grid with several features.
+* [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual grid component.
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
