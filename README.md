@@ -16,7 +16,7 @@
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
-* [Bryntum Grid](https://bryntum.com/products/grid/) - Features rich data grid component from the former Sencha team. Seamless integration with all major frameworks incl. Vue, React, Angular and vanilla JS.
+* [Bryntum Grid](https://bryntum.com/products/grid/) - Features rich data grid component from the former Sencha team.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
