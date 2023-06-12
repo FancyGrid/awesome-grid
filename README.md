@@ -16,21 +16,22 @@
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
+* [Bryntum Grid](https://bryntum.com/products/grid/) - Features rich data grid component from the former Sencha team. Seamless integration with all major frameworks incl. Vue, React, Angular and vanilla JS.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
-Angular 1, Angular2, jQuery, React, VueJs, Web Components.   
+Angular, jQuery, React, VueJs, Web Components.  
+* [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
 * [Grid.js](http://gridjs.io/) - Table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. It extends native HTML table. It does not provide 
 many modern Enterprise grid features.
 * [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
- It has a commercial licence. 
- It supports major javascript frameworks: Angular 1, Angular2, React, VueJs, Web Components.  
+ It supports major javascript frameworks: Angular, React, VueJs, Web Components.  
 * [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
+* [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponent. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.
-* [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponet. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 
 
 ## Specific Libraries
