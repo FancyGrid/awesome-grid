@@ -57,7 +57,7 @@ Good features realization.
 
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
-* [MUI X Data Grid](https://github.com/mui/mui-x) - Feature-rich data grid with an open-source license for simple projects and a commercial license for enterprise use cases. It's highly customizable but also has a native integration with Material UI.
+* [MUI X Data Grid](https://mui.com/x/react-data-grid/) - Feature-rich data grid with an open-source license for simple projects and a commercial license for enterprise use cases. It's highly customizable but also has a native integration with Material UI.
 * [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.  
