@@ -20,8 +20,7 @@ It has both free and commercial licences.  Free is limited on features.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
-Angular, jQuery, React, VueJs, Web Components.  
-* [FXB Grid](https://www.javascript-grid-control.com) - Mobile-friendly and super-fast Javascript grid, with no dependencies. Comprehensive documentation and example code.  
+Angular, jQuery, React, VueJs, Web Components.   
 * [Grid.js](http://gridjs.io/) - Table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. It extends native HTML table. It does not provide 
 many modern Enterprise grid features.
 * [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
