@@ -25,7 +25,6 @@ Angular, jQuery, React, VueJs, Web Components.
 many modern Enterprise grid features.
 * [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
  It supports major javascript frameworks: Angular, React, VueJs, Web Components.  
-* [KoolGrid](http://koolchart.com/koolgrid) - JavaScript Grid library. There are many features, declarative syntax.  
 * [RealGrid](http://www.realgrid.com/) - Professional grid library on Canvas aimed at Enterprise level but almost all documentation is written in Korean.  
 * [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponent. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
