@@ -46,7 +46,7 @@ The author is a former core architect of [DevExpress](http://js.devexpress.com/)
 * [MiniUI](http://miniui.com) - A collection of widgets. There are some basic grid features. There are PHP, Java and .NET versions. All documentation is in Chinese.
 * [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.
 Good features realization.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
+* [SlickGrid](https://github.com/6pac/SlickGrid) - Many features including virtualization that allows quickly scrolling up to 1 million rows. This project is a fork from the iconic https://github.com/mleibman/SlickGrid repo and is actively maintained, with features being added frequently. The themes are not modern, but the CSS can be modified easily.
 * [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
 
 ### AngularJS
