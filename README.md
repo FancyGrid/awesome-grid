@@ -17,7 +17,7 @@
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
 * [Bryntum Grid](https://bryntum.com/products/grid/) - A rich JS data grid component that integrates with React, Vue and Angular.  
-* [FancyGrid](http://fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
+* [FancyGrid](http://fancy-grid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
 Angular, jQuery, React, VueJs, Web Components.   
