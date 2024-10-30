@@ -30,6 +30,8 @@ many modern Enterprise grid features.
 * [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponent. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
+* [Smart Grid](https://www.htmlelements.com/grid/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
+Angular, React, VueJs, Web Components.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.
 
 
