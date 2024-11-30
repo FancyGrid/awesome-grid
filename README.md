@@ -20,7 +20,7 @@ It has both free and commercial licences.  Free is limited on features.
 * [FancyGrid](http://fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
-Angular, jQuery, React, VueJs, Web Components.
+Vanilla JS, React, VueJs, jQuery.
 * [FG-Grid](https://fg-grid.com) - New FancyGrid version. Designed on Vanilla JS, supports TypeScript and React.  
 * [Grid.js](http://gridjs.io/) - Table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. It extends native HTML table. It does not provide 
 many modern Enterprise grid features.
@@ -30,30 +30,12 @@ many modern Enterprise grid features.
 * [RevoGrid](https://revolist.github.io/revogrid/) - Free spreadsheet grid implementation as webcomponent. Handles millions of rows and columns fast and efficiently. Works in any major framework (VueJs, React, Ember, Angular) or with no framework at all.
 * [SpreadJS](http://spread.grapecity.com/spreadjs/) - JavaScript Spreadsheet, Grid and Data Presentation Components. There is a .NET version.  
 SpreadJS is a serious product but the documentation and samples organization is complex.  
-* [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.
+* [TanStack Table](https://tanstack.com/table/) - The most downloadable data grid component over npm! It has packages for Vanilla JS, React, Angular, Vue and other frameworks.  
+But it does not provide styling.  
+* [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.  
 
 
 ## Specific Libraries
-### jQuery
-* [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
-* [DataTables](http://datatables.net/) - Easy to use library. It is the number one grid solution on jQuery.  
-* [Dynatable](http://dynatable.com/) - It has basic features. Last update in 2014!  
-* [Frappe DataTable](https://frappe.io/datatable) - A simple, modern and interactive datatable library on es6. Current version is full of small bugs.  
-* [jExcel](https://github.com/paulhodel/jexcel) - jExcel is is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to a jExcel table from a JS array, json or even a CSV file.  
-* [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
-The author is a former core architect of [DevExpress](http://js.devexpress.com/).
-* [jqGrid](http://trirand.com/) - Variety of grid features.  
-* [jTable](https://github.com/hikalkan/jtable) - All main features and a focus on CRUD operations.
-* [MiniUI](http://miniui.com) - A collection of widgets. There are some basic grid features. There are PHP, Java and .NET versions. All documentation is in Chinese.
-* [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.
-Good features realization.
-* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!  
-* [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
-
-### AngularJS
-* [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
-* [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
-
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
 * [MUI X Data Grid](https://mui.com/x/react-data-grid/) - Feature-rich data grid with an open-source license for simple projects and a commercial license for enterprise use cases. It's highly customizable but also has a native integration with Material UI.
@@ -68,6 +50,26 @@ Good features realization.
 * [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
 * [Smart Grid](https://mukuljainx.github.io/smart-grid/) - Light React grid with several features.
 * [BaseTable](https://autodesk.github.io/react-base-table/) - React grid library from Autodesk.
+
+### jQuery
+* [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
+* [DataTables](http://datatables.net/) - Easy to use library. It is the number one grid solution on jQuery.  
+* [Dynatable](http://dynatable.com/) - It has basic features. Last update in 2014!  
+* [Frappe DataTable](https://frappe.io/datatable) - A simple, modern and interactive datatable library on es6. Current version is full of small bugs.  
+* [jExcel](https://github.com/paulhodel/jexcel) - jExcel is is a very light jquery plugin to embed a spreadsheet, compatible with Excel, in your browser. You can load data straight to a jExcel table from a JS array, json or even a CSV file.  
+* [jsGrid](http://js-grid.com/) - Light grid library with basic grid features.  
+The author is a former core architect of [DevExpress](http://js.devexpress.com/).
+* [jqGrid](http://trirand.com/) - Variety of grid features.  
+* [jTable](https://github.com/hikalkan/jtable) - All main features and a focus on CRUD operations.
+* [MiniUI](http://miniui.com) - A collection of widgets. There are some basic grid features. There are PHP, Java and .NET versions. All documentation is in Chinese.
+* [ParamQuery](http://paramquery.com/) - Featured grid library, but many small bugs and old design.
+Good features realization.
+* [SlickGrid](https://github.com/mleibman/SlickGrid) - Many features. There is even an infinite feature (1 000 000 rows). Themes looks out of date. Product is well known. Last update in 2014!
+* [Tablesorter](https://github.com/christianbach/tablesorter) - Small table plugin that enables sorting and several features.  Mainly used to enable fast sorting on html table.  
+
+### AngularJS
+* [ngx-datatable](https://swimlane.gitbooks.io/ngx-datatable/) - A feature-rich lightweight data-table crafted for Angular2.
+* [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
