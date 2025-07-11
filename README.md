@@ -33,7 +33,7 @@ SpreadJS is a serious product but the documentation and samples organization is 
 * [TanStack Table](https://tanstack.com/table/) - The most downloadable data grid component over npm! It has packages for Vanilla JS, React, Angular, Vue and other frameworks.  
 But it does not provide styling.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.  
-
+* [IgxGrid](https://www.infragistics.com/products/ignite-ui-angular) - A complete Angular components library of Angular-native UI controls, Material-based UI components, including the fastest Angular data grid and 60+ high-performance charts! Compatible with Angular 19 and built to be enterprise-grade.
 
 ## Specific Libraries
 ### React
