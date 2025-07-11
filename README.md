@@ -35,7 +35,6 @@ SpreadJS is a serious product but the documentation and samples organization is 
 * [TanStack Table](https://tanstack.com/table/) - The most downloadable data grid component over npm! It has packages for Vanilla JS, React, Angular, Vue and other frameworks.  
 But it does not provide styling.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.  
-* [IgxGrid](https://www.infragistics.com/products/ignite-ui-angular) - A complete Angular components library of Angular-native UI controls, Material-based UI components, including the fastest Angular data grid and 60+ high-performance charts! Compatible with Angular 19 and built to be enterprise-grade.
 
 ## Specific Libraries
 ### React
@@ -52,6 +51,15 @@ But it does not provide styling.
 * [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
 * [Smart Grid](https://mukuljainx.github.io/smart-grid/) - Light React grid with several features.
 * [BaseTable](https://autodesk.github.io/react-base-table/) - React grid library from Autodesk.
+
+### Vue.js
+* [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display it nicely in a html table with swappable/extensible pagination component.
+* [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
+* [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
+* [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid
+
+### Angular 
+* [IgxGrid](https://www.infragistics.com/products/ignite-ui-angular) - A complete and high-performance Angular data grid by Infragistics. Supports virtual scrolling, sorting, filtering, grouping, editing, export, drag & drop, and responsive design. Ideal for enterprise-grade Angular applications.
 
 ### jQuery
 * [appendGrid](http://appendgrid.apphb.com/) - The dynamic table input jQuery plugin. It has basic features. The design looks old.  
@@ -75,13 +83,7 @@ Good features realization.
 
 ### EmberJS
 * [ember-table](https://github.com/addepar/ember-table) - Professional grid library from [Addepar](https://www.addepar.com/).  
-
-### Vue.js
-* [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display it nicely in a html table with swappable/extensible pagination component.
-* [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
-* [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
-* [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid
-
+  
 ### Dojo
 * [dgrid](http://dgrid.io/) - Full featured, lightweight data grid library.  
 * [DridX](http://oria.github.io/gridx/) - Featured grid solution.  
