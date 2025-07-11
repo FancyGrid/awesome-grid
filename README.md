@@ -21,7 +21,9 @@ It has both free and commercial licences.  Free is limited on features.
 There is a big form module.  
 It supports major javascript frameworks:  
 Vanilla JS, React, VueJs, jQuery.
-* [FG-Grid](https://fg-grid.com) - New FancyGrid version. Designed on Vanilla JS, supports TypeScript and React.  
+* [FG-Grid](https://fg-grid.com) - New FancyGrid version. Designed on Vanilla JS, supports TypeScript and React.
+* [Highcharts Grid Lite](https://www.highcharts.com/products/grid/) - Light grid solution from famous chart library HighCharts.  
+It is well integrated with HighCharts and has some nice dataviz features.
 * [Grid.js](http://gridjs.io/) - Table plugin written in TypeScript. It has integrations with React, Vue, Angular and jQuery. It extends native HTML table. It does not provide 
 many modern Enterprise grid features.
 * [Handsontable](http://handsontable.com/) - JavaScript Spreadsheet excel-like table.  
