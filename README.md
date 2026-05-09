@@ -42,6 +42,7 @@ But it does not provide styling.
 * [MUI X Data Grid](https://mui.com/x/react-data-grid/) - Feature-rich data grid with an open-source license for simple projects and a commercial license for enterprise use cases. It's highly customizable but also has a native integration with Material UI.
 * [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
+* [react-datatable](https://react-datatable.com/docs?utm_source=github&utm_medium=repository&utm_campaign=3rdcom265) - [site](https://react-datatable.com/?utm_source=github&utm_medium=repository&utm_campaign=3rdcom265) - Product-shaped datatable on TanStack Table with shadcn-style UI and Tailwind; filters, views, virtualization, and server pagination or infinite loading; ships as copyable source.  
 * [React Data Grid(adazzle)](http://adazzle.github.io/react-data-grid/) - Excel-like grid component. Many features, small leaks.  
 * [React datasheet](https://nadbm.github.io/react-datasheet) - Simple and highly customizable excel-like spreadsheet.  
 * [React Table](https://github.com/tannerlinsley/react-table) - A tiny(3kb) table library with several features.
