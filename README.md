@@ -35,6 +35,7 @@ SpreadJS is a serious product but the documentation and samples organization is 
 * [TanStack Table](https://tanstack.com/table/) - The most downloadable data grid component over npm! It has packages for Vanilla JS, React, Angular, Vue and other frameworks.  
 But it does not provide styling.  
 * [Tabulator](http://tabulator.info/) - Free JavaScript Table library with many features. It has integrations with Angular, React and Vue.  
+* [xexcel](https://github.com/ximing/xexcel) - Embeddable Excel-style spreadsheet. TypeScript kernel (State/Transaction/Plugin), formula engine, xlsx/CSV, React shell. MIT.  
 
 ## Specific Libraries
 ### React
