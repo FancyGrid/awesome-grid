@@ -51,6 +51,7 @@ But it does not provide styling.
 * [react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) - Light React data table.
 * [Smart Grid](https://mukuljainx.github.io/smart-grid/) - Light React grid with several features.
 * [BaseTable](https://autodesk.github.io/react-base-table/) - React grid library from Autodesk.
+* [snowtable](https://github.com/snowpact/snowtable) - Ultra-light React table wrapping TanStack Table and TanStack Query behind a uniform client/server API.
 
 ### Vue.js
 * [vue-table](https://github.com/ratiw/vue-table) - Vue.js component that will automatically request (JSON) data from the server and display it nicely in a html table with swappable/extensible pagination component.
