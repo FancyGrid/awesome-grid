@@ -59,6 +59,8 @@ Free to use with a footer; a commercial license removes it.
 * [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
 * [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
 * [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid
+* [Infinite Table](https://infinite-table.com/) - Modern Vue 3 DataGrid with pivoting, tree data, grouping and virtualization.  
+Free to use with a footer; a commercial license removes it.
 
 ### Angular 
 * [IgxGrid](https://www.infragistics.com/products/ignite-ui-angular) - A complete and high-performance Angular data grid by Infragistics. Supports virtual scrolling, sorting, filtering, grouping, editing, export, drag & drop, and responsive design. Ideal for enterprise-grade Angular applications.
