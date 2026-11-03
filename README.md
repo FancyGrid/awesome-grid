@@ -39,6 +39,8 @@ But it does not provide styling.
 ## Specific Libraries
 ### React
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
+* [Infinite Table](https://infinite-table.com/) - Modern React DataGrid with pivoting, tree data, grouping and virtualization.  
+Free to use with a footer; a commercial license removes it.
 * [MUI X Data Grid](https://mui.com/x/react-data-grid/) - Feature-rich data grid with an open-source license for simple projects and a commercial license for enterprise use cases. It's highly customizable but also has a native integration with Material UI.
 * [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
@@ -57,6 +59,8 @@ But it does not provide styling.
 * [vue-tables](https://github.com/matfish2/vue-tables) - Small table component on Vue.js.
 * [Vuetiful Datatable](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on Vue.js. Although it does not have documentation, site and even link with samples - it is still interesting. Link on [DataTable](http://codepen.io/andrewcourtice/full/woQzpa)
 * [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid
+* [Infinite Table](https://infinite-table.com/) - Modern Vue 3 DataGrid with pivoting, tree data, grouping and virtualization.  
+Free to use with a footer; a commercial license removes it.
 
 ### Angular 
 * [IgxGrid](https://www.infragistics.com/products/ignite-ui-angular) - A complete and high-performance Angular data grid by Infragistics. Supports virtual scrolling, sorting, filtering, grouping, editing, export, drag & drop, and responsive design. Ideal for enterprise-grade Angular applications.
